@@ -3,5 +3,5 @@ A recommender system is a simple algorithm which is used to provide the most rel
 ## Recommender systems types:
 - 1.Content-based
 - 2.Collabrative Filtering
- This is a collabrative filtering based model which is done using python  and pandas library.
+ #### This is a collabrative filtering based model which is done using python  and pandas library.
 
